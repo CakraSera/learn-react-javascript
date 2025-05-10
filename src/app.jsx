@@ -1,3 +1,3 @@
 export function App() {
-  return <h1>Learn React Typescript</h1>;
+  return <h1>Learn React Javascript</h1>;
 }
